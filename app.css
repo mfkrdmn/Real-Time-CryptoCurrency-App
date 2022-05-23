@@ -1,0 +1,8 @@
+.data{
+    width: 400px;
+    height: 600px;
+    border: 1px solid rgb(0, 183, 255);
+    position: absolute;
+    left: 200px;
+    top: 100px;
+}
